@@ -1,0 +1,19 @@
+{
+  "name": "simple-message-board",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com//ielo03/simple-message-board.git"
+  },
+  "private": true,
+  "dependencies": {
+    "aws-sdk": "^2.1691.0",
+    "body-parser": "^1.20.3",
+    "express": "^4.21.1"
+  }
+}
